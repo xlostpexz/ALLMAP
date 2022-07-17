@@ -6,6 +6,8 @@ elseif game.PlaceId == 6381829480 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/xlostpexz/KingRaid/main/KingRaid.lua", true))()
 elseif game.PlaceId == 4587545091 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/xlostpexz/Vietnampiece/main/VietNamPiece.lua", true))()
+elseif game.PlaceId == 7258239416 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/xlostpexz/Vietnampiece/main/VietNamPiece.lua", true))()
 elseif game.PlaceId == 4996049426 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/xlostpexz/AllStar/main/AllStar.lua", true))()
 elseif game.PlaceId == 6329844902 then
